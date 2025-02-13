@@ -1,0 +1,7 @@
+mysql-connector-python
+fastapi[all]
+
+
+
+install individually or this cmd in its folder foodchatbot
+pip install -r requirements.txt
