@@ -64,3 +64,9 @@ NOTE: ngrok can timeout. you need to restart the session if you see session expi
 Project Snapshots
 ===================
 
+![Screenshot](https://github.com/PoojaKHalannavar/FoodChatBot/blob/main/assets/screenshot1.PNG)
+
+![Screenshot](https://github.com/PoojaKHalannavar/FoodChatBot/blob/main/assets/screenshot2.PNG)
+
+![Screenshot](https://github.com/PoojaKHalannavar/FoodChatBot/blob/main/assets/screenshot3.PNG)
+
