@@ -2,7 +2,7 @@ A Chatbot for online food orders using Dialogflow
 ===================
 A food ordering chatbot built with Dialogflow ES and a FastAPI backend, utilizing a MySQL database and a responsive frontend. 
 
-The chatbot allows users to place new orders and track existing ones. The FastAPI backend handles user requests, processes orders, and communicates with the MySQL database for order management. The responsive frontend ensures a seamless user experience.
+The chatbot allows users to place new orders and track existing ones. The FastAPI backend handles user requests, processes orders, and communicates with the MySQL database for order management.
 
 1) New Order: Sample Conversation
 ```
